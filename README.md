@@ -15,4 +15,4 @@ The visual corruption lets you see partially through the window in certain spots
 
 For best reproduction chance, set up a station with a 60 Hz monitor, and a 144 Hz monitor. Then launch the built app twice, one on each monitor and go full-screen on both of them with the F11 key. 
 
-<video src="https://raw.githubusercontent.com/ShadowMarker789/AvaloniaUI-Animation-Rendering-Corruption/main/Animation-Corruption-Camera-Video.mp4"></video>
+<video src="https://raw.githubusercontent.com/ShadowMarker789/AvaloniaUI-Animation-Rendering-Corruption/main/Animation-Corruption-Camera-Video.mp4" width="640"></video>
