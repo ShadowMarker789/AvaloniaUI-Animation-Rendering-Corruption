@@ -11,6 +11,8 @@ This is a minimalistic example (ish) of reproducing said problem. I have a 60 Hz
 
 The visual corruption lets you see partially through the window in certain spots and may cause issues for people with visual sensory sensitivities. 
 
+![Corruption Image](https://github.com/ShadowMarker789/AvaloniaUI-Animation-Rendering-Corruption/raw/main/img_0213.png)
+
 ## Reproducing
 
 For best reproduction chance, set up a station with a 60 Hz monitor, and a 144 Hz monitor. Then launch the built app twice, one on each monitor and go full-screen on both of them with the F11 key. 
